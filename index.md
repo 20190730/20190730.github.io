@@ -61,3 +61,6 @@
 - 2019年 [社名](URL) 入社
 - 2018年 [学校名](URL) 卒業
 - 表彰、受賞歴、メディア掲載記事などあれば
+
+YouTubeの埋め込みテスト
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tf7IEVTDjng" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
